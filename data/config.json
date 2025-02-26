@@ -5,6 +5,6 @@
 
     "Generator": {
         "captcha_key": "",
-        "Use Proxies": false
+        "Use Proxies": true
     }
 }
