@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "funcaptcha": "^1.1.7",
+    "roblox-funcaptcha": "^4.1.18"
+  }
+}
